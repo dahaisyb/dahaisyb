@@ -1,6 +1,6 @@
 ### Hi there 👋
-我是一名前端程序员，大四学生，目前在北京一家公司做前端开发实习。
-[我的个人博客网站：](https://codersyb.com)<https://codersyb.com>
+I am a front-end programmer, a senior student, currently working as a front-end developer in Beijing.
+[My blog：](https://codersyb.com)<https://codersyb.com>
 
 <!--
 **dahaisyb/dahaisyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
